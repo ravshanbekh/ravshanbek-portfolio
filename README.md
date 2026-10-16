@@ -4,7 +4,7 @@ Stitch ZIP maketidagi desktop va mobil dizayn asosida yozilgan React + Vite port
 
 ## Ishga tushirish
 
-Node.js 20.19+ o‘rnating, so‘ng:
+Node.js 24 o‘rnating, so‘ng:
 
 ```bash
 npm ci
