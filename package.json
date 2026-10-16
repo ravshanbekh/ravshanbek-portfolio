@@ -1,0 +1,25 @@
+{
+  "name": "ravshanbek-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "lucide-react": "^1.58.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.5"
+  },
+  "engines": {
+    "node": ">=20.19.0"
+  }
+}

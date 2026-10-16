@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vercel/
+.env*
+!.env.example
+_reference/
+*-url.txt
+playwright-report/
+test-results/
